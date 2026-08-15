@@ -19,6 +19,6 @@ It allows users to add, search, edit, and delete contacts such as names, phone n
 
 ## 🚀 How to Run
 1. Clone the repository:
-   gcc addressbook.c -o addressbook
+   gcc main.c contact.c 
 
    

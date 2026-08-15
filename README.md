@@ -19,5 +19,6 @@ It allows users to add, search, edit, and delete contacts such as names, phone n
 
 ## 🚀 How to Run
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/Sikesh-hub/AddresBook.git
+   gcc addressbook.c -o addressbook
+
+   

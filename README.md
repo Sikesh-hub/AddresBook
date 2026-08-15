@@ -13,7 +13,7 @@ It allows users to add, search, edit, and delete contacts such as names, phone n
 
 ## 🛠️ Technologies Used
 - C programming language
-- Structures (`struct`) for contact details
+- array for contact details
 - Arrays for storing multiple contacts
 - File handling for saving and loading data
 
